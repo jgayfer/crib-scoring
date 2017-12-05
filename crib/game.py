@@ -1,5 +1,5 @@
-from crib.card import Card
-from crib.util import powerset
+from card import Card
+from util import powerset
 
 
 class Game:

@@ -1,4 +1,4 @@
-from crib.map import VALUE_MAP, SUIT_MAP
+from map import VALUE_MAP, SUIT_MAP
 
 
 class Card:

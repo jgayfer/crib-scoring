@@ -10,5 +10,4 @@ cut = Card(2, 0)
 game = Game(hand, cut)
 
 # Score hand
-game.score()
-print(game.run_score)
+game.print_score()
